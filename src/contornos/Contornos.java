@@ -5,6 +5,8 @@
  */
 package contornos;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author apenasampedro
@@ -16,6 +18,7 @@ public class Contornos {
      */
     public static void main(String[] args) {
       System.out.println("Hey!");
+      JOptionPane.showMessageDialog(null,"He!!");
     }
     
 }
