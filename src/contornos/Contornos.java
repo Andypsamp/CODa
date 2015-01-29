@@ -17,7 +17,7 @@ public class Contornos {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-      System.out.println("Hey!");
+      System.out.println("1234!");
       JOptionPane.showMessageDialog(null,"He!!");
     }
     
