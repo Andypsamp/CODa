@@ -19,6 +19,7 @@ public class Contornos {
     public static void main(String[] args) {
       System.out.println("123");
       System.out.println("1234!");
+      System.out.println("Error");
       JOptionPane.showMessageDialog(null,"He!!");
         System.out.println("Hola Andy");
     
